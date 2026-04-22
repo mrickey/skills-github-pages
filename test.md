@@ -1,5 +1,6 @@
 ---
 title: A page for Testing
+nav_title: Testing
 ---
 Here is a little test.
 
